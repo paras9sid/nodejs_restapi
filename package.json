@@ -1,0 +1,16 @@
+{
+  "name": "yt_restapi",
+  "version": "1.0.0",
+  "description": "apis creation",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "sidharth jain",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "uuid": "^8.3.2"
+  }
+}
